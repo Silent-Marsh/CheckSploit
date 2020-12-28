@@ -5,7 +5,7 @@
 ________________________________________________________________________________________________________________________
 (12/18/2020 11:44 A.M.)
 *New Websites Have Been Added
-**New Feature - Wireless Internet Remote
+**New Feature - xCoPanel (Wireless Internet Remote)
 --When Launching Wireless Internet Remote, a file Named "null" is auto generated in the CheckSploit Folder--
 ________________________________________________________________________________________________________________________
 (12/18/2020 8:46 A.M.)
