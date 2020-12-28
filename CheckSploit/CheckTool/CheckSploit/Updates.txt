@@ -1,3 +1,8 @@
+(12/18/2020 2:45 P.M.)
+*Minor Bugs Fixed
+**New Feature - xCoPanel (Settings_Manager)
+--When Launching Settings Manager, a file named "null" is auto generated in the xCoPanel Folder--
+________________________________________________________________________________________________________________________
 (12/18/2020 11:44 A.M.)
 *New Websites Have Been Added
 **New Feature - Wireless Internet Remote
